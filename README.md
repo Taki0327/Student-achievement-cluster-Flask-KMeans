@@ -4,4 +4,4 @@
 
 工具包：scikit-learn 算法：KMeans
 
-基于PMML跨平台部署该模型：https://github.com/Taki0327/PMML-KMeans
+[基于PMML跨平台部署该模型](https://github.com/Taki0327/PMML-Student-achievement-cluster-KMeans)
